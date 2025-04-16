@@ -50,4 +50,4 @@ This project is a modern, responsive digital marketing agency website template i
 ---
 **Author:** Habeeb Najeeb
 
-For questions or customization, contact: Digitalcivitas855@gmail.com | 234(0)813-101-7099 (WhatsApp)
+For questions or customization, contact: Digitalcivitas855@gmail.com
